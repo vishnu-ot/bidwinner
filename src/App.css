@@ -1,0 +1,16 @@
+/* *{
+  background-color: #e6ffff;
+} */
+
+.body-container {
+  display: flex;
+
+  /* align-items: flex-start; */
+}
+@media (max-width: "769px") {
+  .body-container {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+}

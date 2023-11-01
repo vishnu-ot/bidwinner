@@ -1,0 +1,14 @@
+[
+    {"id":1, "name":"Recessed Fluorescent", "Type": "C"}, 
+    {"id":2, "name":"Surface Fluorescent", "Type": "C"}, 
+    {"id":3, "name":"Recessed Incandescent", "Type": "C"}, 
+    {"id":4, "name":"Computer and Phone", "Type": "C"}, 
+    {"id":5, "name":"Surface Incandescent", "Type": "C"}, 
+    {"id":6, "name":"Recessed HO", "Type": "C"}, 
+    {"id":7, "name":"Surface HO", "Type": "C"}, 
+    {"id":8, "name":"Exit & Emergency", "Type": "C"}, 
+    {"id":9, "name":"Fans & Miscellaneous", "Type": "C"}, 
+    {"id":10, "name":"Spec Fixtures ( Type A....)", "Type": "C"}, 
+    {"id":11, "name":"Fixture Connections", "Type": "C"}
+    
+]

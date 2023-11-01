@@ -1,0 +1,16 @@
+[
+    {"id":1, "name":"Fixtures", "Type": "C"}, 
+    {"id":2, "name":"Switches", "Type": "C"}, 
+    {"id":3, "name":"Recipratres", "Type": "C"}, 
+    {"id":4, "name":"Computer and Phone", "Type": "C"}, 
+    {"id":5, "name":"Fire Alarm", "Type": "C"}, 
+    {"id":6, "name":"EMT (Branch)", "Type": "C"}, 
+    {"id":7, "name":"EMT (Feeder)", "Type": "C"}, 
+    {"id":8, "name":"Cable (Branch)", "Type": "C"}, 
+    {"id":9, "name":"Cable (Feeder)", "Type": "C"}, 
+    {"id":10, "name":"GRC (Branch)", "Type": "C"}, 
+    {"id":11, "name":"GRC (Feeder)", "Type": "C"}, 
+    {"id":12, "name":"Service", "Type": "C"}, 
+    {"id":13, "name":"Panel", "Type": "C"}, 
+    {"id":14, "name":"Manual Disconnects", "Type": "C"}
+]

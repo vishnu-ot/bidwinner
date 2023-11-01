@@ -1,0 +1,13 @@
+[
+    {"id":1, "name":"2x4” Drop-In T-Bar (1/2” Flex)", "Type": "C"}, 
+    {"id":2, "name":"1x4” Drop-In T-Bar (1/2” Flex)", "Type": "C"}, 
+    {"id":3, "name":"2x4” Drop-In T-Bar (14/2” BX)", "Type": "C"}, 
+    {"id":4, "name":"1x4” Drop-In T-Bar (14/2” BX)", "Type": "C"}, 
+    {"id":5, "name":"1x4” Drop-In T-Bar (14/2” BX)", "Type": "C"}, 
+    {"id":6, "name":"2x2” Drop-In T-Bar (14/2” BX)", "Type": "C"}, 
+    {"id":7, "name":"2x4” Drop-In T-Bar (12/2” BX)", "Type": "C"}, 
+    {"id":8, "name":"2x4” Drop-In T-Bar (12/2” BX)", "Type": "C"}, 
+    {"id":9, "name":"1x4” Drop-In T-Bar (14/2” Teck)", "Type": "C"}, 
+    {"id":10, "name":"1x4” Drop-In T-Bar (12/2” Teck)", "Type": "C"}
+    
+]

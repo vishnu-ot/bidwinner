@@ -1,0 +1,98 @@
+.header-section {
+  height: 72px;
+  width: 100%;
+  background-color: #212d57;
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 769px) {
+  .header-section {
+    width: 1200px;
+    
+    height: 68px;
+  }
+}
+.logo-section {
+  display: flex;
+  align-items: center;
+}
+.logo-section img {
+  width: 28px;
+  height: 42px;
+  margin-left: 49px;
+}
+.title-sec {
+  width: 126px;
+  height: 43px;
+
+  position: relative;
+}
+.title-sec .title-box {
+  width: 115px;
+  height: 28px;
+  margin: 0;
+  padding: 0;
+}
+.title-sec h3 {
+  font-family: "Khand", sans-serif;
+  font-weight: 900;
+  size: 27.81px;
+  line-height: 42.52px;
+  color: white;
+  position: absolute;
+  top: -4px;
+}
+
+.nav-items ul li {
+  list-style: none;
+  padding: 0 50px;
+  font-size: Poppins;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: white;
+}
+@media (max-width: 769px){
+  .nav-items ul li{
+    padding: 0 7px;
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+.nav-items ul {
+  display: flex;
+}
+.box-sec {
+  width: 246px;
+  border: 1px solid white;
+  height: 46px;
+  display: flex;
+  gap: 8px;
+  padding: 2px;
+  justify-content: space-between;
+  align-items: center;
+}
+.name-section {
+  width: 130px;
+}
+.name-section h6 {
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+.name-section p {
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  text-align: right;
+}
+
+.img-sec img {
+  margin: 0;
+  padding: 0;
+}
+.bell-icon {
+  margin-left: 30px;
+}
